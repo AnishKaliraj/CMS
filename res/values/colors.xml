@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="title_background">#C2CEFC</color>
+      <color name="foreground1">#ff355689</color>
+      <color name="white">#FFFFFF</color>
+      <color name="black">#000000</color>
+      <color name="Translucent_black"> #290000ff</color>
+      <color name="Translucent_log"> #050000ff</color>
+        <color name="Translucent_bord"> #6501ff11</color>
+        <color name="Translucent_bord1"> #990011ff</color>
+        <color name="Translucent_foot"> #65ff0010</color>
+        <color name="Translucent_null"> #00ff0010</color>
+         <color name="redcolor"> #A40B0E</color>
+         <color name="meruncolor"> #890204</color>
+         <color name="red">#FF0000</color>
+         
+</resources>
